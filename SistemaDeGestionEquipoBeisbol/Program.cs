@@ -19,25 +19,25 @@ namespace SistemaDeGestionEquipoBeisbol
             equipos.Add(yaquis);
 
             //Estos son de los mayos
-            Jugador Alberto = new Jugador("Alberto", "66642069");
-            Jugador Pablo = new Jugador("Pablo", "642145890");
-            Jugador Roberto = new Jugador("Roberto", "839321368");
-            Jugador Mario = new Jugador("Mario", "892623435834");
-            Jugador Jose = new Jugador("Jose", "736832537");
-            Jugador Miguel = new Jugador("Miguel", "0928379812");
-            Jugador Jesus = new Jugador("Jesus", "67387467287");
-            Jugador Cleyton = new Jugador("Cleyton", "903737826732");
-            Jugador Omar = new Jugador("Omar", "78435483643");
+            Jugador Alberto = new Jugador("Alberto", "06");
+            Jugador Pablo = new Jugador("Pablo", "64");
+            Jugador Roberto = new Jugador("Roberto", "93");
+            Jugador Mario = new Jugador("Mario", "88");
+            Jugador Jose = new Jugador("Jose", "76");
+            Jugador Miguel = new Jugador("Miguel", "23");
+            Jugador Jesus = new Jugador("Jesus", "15");
+            Jugador Cleyton = new Jugador("Cleyton", "45");
+            Jugador Omar = new Jugador("Omar", "66");
             //Estos son de los yaquis
-            Jugador Alex = new Jugador("Alex", "66642069");
-            Jugador Jebus = new Jugador("Jebus", "642145890");
-            Jugador Carlos = new Jugador("Carlos", "839321368");
-            Jugador Ruben = new Jugador("Ruben", "892623435834");
-            Jugador Mora = new Jugador("Mora", "736832537");
-            Jugador Gerardo = new Jugador("Gerardo", "0928379812");
-            Jugador Emilio = new Jugador("Emilio", "67387467287");
-            Jugador Jonh = new Jugador("Jonh Cena", "903737826732");
-            Jugador vlad = new Jugador("Vlad", "78435483643");
+            Jugador Alex = new Jugador("Alex", "08");
+            Jugador Jebus = new Jugador("Jebus", "50");
+            Jugador Carlos = new Jugador("Carlos", "42");
+            Jugador Ruben = new Jugador("Ruben", "39");
+            Jugador Mora = new Jugador("Mora", "56");
+            Jugador Gerardo = new Jugador("Gerardo", "99");
+            Jugador Emilio = new Jugador("Emilio", "100");
+            Jugador Jonh = new Jugador("Jonh Cena", "69");
+            Jugador vlad = new Jugador("Vlad", "32");
 
             mayos.jugadores.Add(Alberto);
             mayos.jugadores.Add(Pablo);
